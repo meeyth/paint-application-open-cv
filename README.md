@@ -18,16 +18,20 @@ This Python application utilizes the OpenCV module to create a simple paint prog
 
 ## Usage
 
-1. Clone the repository:
+- Clone the repository:
 
    ```bash
    git clone https://github.com/meeyth/your-repo.git
    cd your-repo
+   ```
 
 ## Installation
 
+- Install the Library:
+
    ```bash
    pip install opencv-python
+   ```
 
 ## Preview
 
