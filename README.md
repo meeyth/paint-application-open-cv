@@ -26,8 +26,6 @@ This Python application utilizes the OpenCV module to create a simple paint prog
 
 ## Installation
 
-1. Clone the repository:
-
    ```bash
    pip install opencv-python
 
