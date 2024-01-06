@@ -21,7 +21,7 @@ This Python application utilizes the OpenCV module to create a simple paint prog
 - Clone the repository:
 
    ```bash
-   git clone https://github.com/meeyth/your-repo.git
+   git clone https://github.com/meeyth/paint-application-open-cv.git
    cd your-repo
    ```
 
